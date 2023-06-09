@@ -1,0 +1,43 @@
+.containera {
+    display:flex;
+    width:800px;
+    height:600px;
+    background-image: url(https://img.freepik.com/premium-photo/white-oil-paint-brush-stroke-textture-background_53876-148871.jpg);
+    margin: auto;
+    padding: 10px;
+}
+
+.container {
+    width:700px;
+    height:600px;
+  }
+
+  .center-block {
+    height: 400px;
+    width:550px;
+    border-radius: 50%;
+    margin-top: 40px;
+    margin-left: 50px;
+  }
+
+  h1 {
+    color: #120303   ;
+    padding: 10px 10px;
+    background-color: #f0f6f6;
+  }
+
+  .nav-link {
+    color:#FDFEFE ;
+  }
+
+  .nav-link:hover {
+    color:#cb2310;
+}
+
+.navbar {
+    background-color: #17202A 
+    }
+
+.navbar .navbar-nav > li > a {
+        line-height: 50px;
+         }
